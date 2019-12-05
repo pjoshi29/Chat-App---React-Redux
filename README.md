@@ -10,28 +10,27 @@ This chat app is developed using ReactJS, Redux and NodeJS.
 1. Open project in visual studio or any other editor tool.
 2. Open terminal
 3. You'll see chat-app directory in terminal.
-4. cd client
+4. cd Chat-App-Client
 5. npm install react-router-dom
 6. npm install redux
-7. npm installl react-redux
+7. npm install react-redux
 8. cd ..
-9. mkdir server
-10. cd server
-11. npm install
-12. npm install nodemon
-13. npm install express
-14. npm i shortid
-15. cd ..
-16. npm install
-17. npm start
+9. cd server
+10. npm install
+11. npm install nodemon
+12. npm install express
+13. npm i shortid
+14. cd ..
+15. npm install
+16. npm start
 
 
 #Project Build Commands:
 1. mkdir chat-app
 2. npm i -g create-react-app
 3. cd chat-app
-4. create-react-app client
-5. cd client/
+4. create-react-app Chat-App-Client
+5. cd Chat-App-Client/
 6. npm start
 7. npm install react-router-dom
 8. npm install redux
