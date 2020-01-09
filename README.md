@@ -21,11 +21,15 @@ b. Create a Chat-App-React-Redux directory in github
     6. git commit -am 'added Client module'
     7. git push origin master
 
-c. Commit Data to Repository / Commit Data using source tree
+c. Commit Data using source tree
 
-    1. git add .
-    2. git commit -m "your commit message"
-    3. git push - username and pwd
+    1.open Chat-App-React-Redux project in source tree
+    2. pull changes
+    3. select files to commit, add commit message and click commit button
+    4. it'll ask you to commit submodule first, select files and commit them
+    5. commit main module
+    6. click push button, it'll ask you to commit submodule, commit it first.
+    7. come back and commit main module
 
 
 # How to Run Project?
