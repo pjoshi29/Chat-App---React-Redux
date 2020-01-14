@@ -63,15 +63,16 @@ c. Commit Data using source tree
 8. npm install redux
 9. npm installl react-redux
 10. npm install react-intl
-11. cd ..
-12. mkdir server
-13. cd server
-14. npm install
-15. npm install nodemon
-16. npm install express
-17. npm i shortid
-18. npm init -y
-19. cd ..
-20. npm init -y
-21. npm install
-22. npm start
+11. npm i font-awesome
+12. cd ..
+13. mkdir server
+14. cd server
+15. npm install
+16. npm install nodemon
+17. npm install express
+18. npm i shortid
+19. npm init -y
+20. cd ..
+21. npm init -y
+22. npm install
+23. npm start
